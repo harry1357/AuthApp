@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "68858325993",
+    "project_id": "authentication-975c9",
+    "storage_bucket": "authentication-975c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68858325993:android:dc37b679db7c7b6ef87978",
+        "android_client_info": {
+          "package_name": "com.authenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68858325993-npboonmu6glick0dph9phbf8n13o0rtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-PyFqnfyfzfToiDe7XKZZIL93k79ZP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68858325993-npboonmu6glick0dph9phbf8n13o0rtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68858325993:android:3890e72cba6d6c68f87978",
+        "android_client_info": {
+          "package_name": "com.rnemailauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68858325993-npboonmu6glick0dph9phbf8n13o0rtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-PyFqnfyfzfToiDe7XKZZIL93k79ZP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68858325993-npboonmu6glick0dph9phbf8n13o0rtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68858325993:android:36b253a824a0f148f87978",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68858325993-npboonmu6glick0dph9phbf8n13o0rtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-PyFqnfyfzfToiDe7XKZZIL93k79ZP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68858325993-npboonmu6glick0dph9phbf8n13o0rtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
